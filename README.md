@@ -2,7 +2,7 @@
 
 A simple project that demonstrates a simple way to animate your button in [Flutter](https://flutter.io).
 
-![Preview](images/preview.gif)
+<img src="images/preview.gif" height="500em" />
 
 ## Getting Started
 
